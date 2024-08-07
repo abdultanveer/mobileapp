@@ -9,6 +9,7 @@ function App() {
     <div className="App">
 
     <Routes>
+      {/* add two more pages */}
       <Route path='/' element = {<Home/>}></Route>
       <Route path='/about' element = {<About/>}></Route>
 
